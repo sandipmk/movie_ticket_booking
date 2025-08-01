@@ -39,10 +39,9 @@ It allows users to book movie tickets online, view seat availability, and get re
    ```bash
    git clone git@github.com:sandipmk/movie_ticket_booking.git
    ```
-2. Import `database/movie_booking.sql` to your MySQL.
-3. Configure database connection in `includes/db_config.php`.
-4. Update Razorpay API keys in `payment.php`.
-5. Run the project on your local server (XAMPP/WAMP).
+2. Import `database/cinema_db.sql` to your MySQL.
+3. Update Razorpay API keys in `payment.php`.
+4. Run the project on your local server (XAMPP/WAMP).
 
 ## Admin Login (Demo)
 - **URL**: `/admin/login.php`
@@ -50,7 +49,7 @@ It allows users to book movie tickets online, view seat availability, and get re
 - **Password**: 123
 
 ## Screenshots 📸
-_Add screenshots of Homepage, Seat Selection, Payment Page, and Admin Panel here._
+..
 
 ## License 📄
 This project is for educational purposes only.
