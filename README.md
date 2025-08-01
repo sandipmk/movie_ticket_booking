@@ -47,7 +47,7 @@ It allows users to book movie tickets online, view seat availability, and get re
 ## Admin Login (Demo)
 - **URL**: `/admin/login.php`
 - **Username**: admin
-- **Password**: admin123
+- **Password**: 123
 
 ## Screenshots 📸
 _Add screenshots of Homepage, Seat Selection, Payment Page, and Admin Panel here._
